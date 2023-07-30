@@ -3,7 +3,8 @@ PyGuess - The Mini Guessing Game
 
 Learn the Basics of Python Programming
 
-Introduction
+<H2>Introduction</H2>
+
 The PyGuess Mini Guessing Game is a simple yet engaging Python program that offers a great opportunity for beginners to learn the basics of programming. In this tiny game, users are given 5 chances to guess the correct number between 1 and 10. While the game itself is straightforward, the code behind it serves as an excellent learning resource for those new to Python and programming in general.
 
 Learning Python Concepts
