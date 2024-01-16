@@ -33,7 +33,7 @@ while(choice.lower() == 'y'):
     user_turn = input("Enter your answer - Rock, paper, or scissors? ")
 
     if(user_turn.lower() != "rock" and user_turn.lower() != "paper" and user_turn.lower() != "scissors" and user_turn.lower() != rand_answer):
-        #while(user_turn.lower() or "rock" or user_turn.lower() != "paper" and user_turn.lower() != "scissors" and user_turn.lower() != rand_answer):
+        while(user_turn.lower() or "rock" or user_turn.lower() != "paper" and user_turn.lower() != "scissors" and user_turn.lower() != rand_answer):
             print("\nPlease make sure you spell your choice correctly.")
             user_turn = input("Enter your answer - Rock, paper, or scissors? ")
         
